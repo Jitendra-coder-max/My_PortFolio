@@ -38,8 +38,8 @@ const ProjectsInfo = [
       "https://jitendra-salescaption.netlify.app/",
       "https://jitendra-knightbite.netlify.app/",
       
-      "https://jitendra-pet.netlify.app/",
-      "https://capable-cat-c77202.netlify.app/",
+      "https://jit-pet.netlify.app/",
+      "https://jit-nishad-net-flix.netlify.app/",
       
      
     ],
